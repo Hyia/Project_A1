@@ -10,7 +10,7 @@ Heros will climbing up dungeon and destroy Evil one for their reason.
 <li> monsters having own skils.</li>
 <li>slay monsters in floor and acquire soul-gem for hero to use skils and improve status.</li>
 
-## game stream loop
+## Game stream loop
 * game title -> choose or create hero -> tutorial when create hero -> make first deck to dive dungeon
 * { fight -> receive skill card from monster } loop until top of the tower or hero fell down.
 * if hero fallen, return making first deck maker.
@@ -18,4 +18,11 @@ Heros will climbing up dungeon and destroy Evil one for their reason.
 * won to Evil one, reset(or lifting some rewards, bonuses) and make game harder in next play to make more challenges.
 * game epilogue
 * game title again
+
+## Note
+2017.9  stop project and learning unity....
+
+
+
+
 
